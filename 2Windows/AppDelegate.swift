@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  2Windows
 //
-//  Created by Caleb Strockbine on 4/26/19.
+//  Created by SOCaleb on 4/26/19.
 //  Copyright © 2019 strockbine.net. All rights reserved.
 //
 
